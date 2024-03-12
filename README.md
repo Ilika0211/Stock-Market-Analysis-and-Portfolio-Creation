@@ -19,3 +19,8 @@ Utilised Plotly library to analyse data and even visualised data using Tableau.
 
 ### Examples of Insights/Charts 
 
+<img src="CandleStickChart.png" width="1000">
+<img src="Closing Price of Stocks.png" width="1000">
+<img src="Correlation of Stocks.png" width="1000">
+<img src="Return of Stocks in Finance Industry.png" width="1000">
+<img src="Risk Vs Return.png" width="1000">
